@@ -1,5 +1,4 @@
-README for Barcode Language Project
-Overview
+
 This project focuses on encoding and decoding a specialized language using a barcode-like system. The system utilizes a sequence of characters resembling musical notation symbols to represent different words or phrases. The aim is to create a tool that can convert these visual representations back into readable text.
 
 Project Goal
